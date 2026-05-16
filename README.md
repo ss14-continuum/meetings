@@ -54,5 +54,4 @@ creators and major ss14 contributors.
 
 ### First meeting video
 
-The video recording of our first meeting was approved for public release. A
-link will be provided here once we have a copy uploaded.
+Recording of our first meeting: https://youtu.be/hc8rPHNWasI
