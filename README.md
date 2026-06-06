@@ -14,6 +14,7 @@ father notice or lack of interest among members.
 ## Member Servers
 
 - Afterlight
+- Aurora's Song
 - Cosmatic Drift
 - Delta-V
 - Euphoria
