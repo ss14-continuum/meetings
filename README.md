@@ -18,7 +18,6 @@ father notice or lack of interest among members.
 - Cosmatic Drift
 - Delta-V
 - Euphoria
-- Frontier
 - Funky Station
 - Harmony
 - Impstation
