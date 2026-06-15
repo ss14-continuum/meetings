@@ -26,6 +26,7 @@ father notice or lack of interest among members.
 - Starlight
 - Stellar Station
 - The Den
+- Троєщинські Пірати
 - Wizards Den[1]
 
 [1]: While we have a few members from wizards den this project is not endorsed by the Space Wizards Federation as a whole. However, the collection of Wizards Den staff who are here do have voting privileges.
