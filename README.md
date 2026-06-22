@@ -21,13 +21,16 @@ father notice or lack of interest among members.
 - Funky Station
 - Harmony
 - Impstation
+- Jamboree
 - Moffstation
+- Mriya
 - Rouny's Marine Corps
+- S.T.A.L.K.E.R.
 - Starlight
 - Stellar Station
 - The Den
-- Троєщинські Пірати
 - Wizards Den[1]
+- Троєщинські Пірати
 
 [1]: While we have a few members from wizards den this project is not endorsed by the Space Wizards Federation as a whole. However, the collection of Wizards Den staff who are here do have voting privileges.
 
