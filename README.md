@@ -42,8 +42,11 @@ We also have a few unaffiliated members.
 If you are a ss14 server lead that wishes to join you can contact one of the following:
 - aquif - @dffdff2423 on discord (551544963201105931) and github.
 - Chief_Engineer - am.ghost on discord (267392122179682307) and @Chief-Engineer on github
-- mqole - mqole on discord (493234058088677379) and @mqole on github
+- Jimboe - vapetastic on discord (252450546886246400)
+- June - sheepmera on discord (244251706794180609) and @juniwoofs on github
 - Kazne - kazne on discord (132690872616747008) and @AftrLite on github
+- mqole - mqole on discord (493234058088677379) and @mqole on github
+- Rosie - buda on discord (118198300095545353) and @BudaLope on github
 
 You will be asked to provide a brief overview on why your server wishes to join
 and you request is put to a vote among the group. If you are rejected we will
