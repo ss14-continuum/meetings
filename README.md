@@ -3,13 +3,14 @@
 This repository contains the records of the SS14 Continuance Commission, or SCC
 for short. We are a group of SS14 forks that was formed to promote collaboration and
 ensure that SS14 will continue to persist long into the future. Our meetings are
-currently redistricted to project management and senior maintainers of our
+currently restricted to project management and senior maintainers of our
 members' servers (with a few exceptions), however we will be publishing our
-meeting minutes in this location for public viewing. Some items may be redacted
-in the public version in the event sensitive topics were discussed in the meeting.
+meeting minutes in this location for public viewing. In the event sensitive topics
+were discussed in the meeting, some items on the minutesmay be redacted in the public
+version.
 
 Moving forward, we intend to meet every two weeks from the second meeting until
-father notice or lack of interest among members.
+further notice or lack of interest among members.
 
 ## Member Servers
 
