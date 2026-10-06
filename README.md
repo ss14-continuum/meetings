@@ -1,12 +1,12 @@
 # SS14 Continuance Commission Records
 
-This repository contains the records of the SS14 Continuance Commission or CC
-for short. We are group of SS14 forks that formed to promote collaboration and
-ensure SS14 will continue to persist long into the future. Our meetings are
+This repository contains the records of the SS14 Continuance Commission, or SCC
+for short. We are a group of SS14 forks that was formed to promote collaboration and
+ensure that SS14 will continue to persist long into the future. Our meetings are
 currently redistricted to project management and senior maintainers of our
-members servers (with a few exceptions) however we will be publishing our
-meeting minutes at this location for public viewing. Some items may be redacted
-in the public version in the event sensitive topics were discussed.
+members' servers (with a few exceptions), however we will be publishing our
+meeting minutes in this location for public viewing. Some items may be redacted
+in the public version in the event sensitive topics were discussed in the meeting.
 
 Moving forward, we intend to meet every two weeks from the second meeting until
 father notice or lack of interest among members.
