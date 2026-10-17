@@ -15,24 +15,25 @@ further notice or lack of interest among members.
 
 - Afterlight
 - Aurora's Song
+- Carpmosia
 - Cosmatic Drift
 - Delta-V
+- Ephemeral Space
 - Euphoria
+- Frontier Station
 - Funky Station
 - Harmony
 - Impstation
 - Jamboree
 - Moffstation
 - Mriya
+- Paradise 14
 - Rouny's Marine Corps
-- S.T.A.L.K.E.R.
 - Starlight
 - Stellar Station
 - The Den
-- Wizards Den[1]
+- Wizards Den
 - Троєщинські Пірати
-
-[1]: While we have a few members from wizards den this project is not endorsed by the Space Wizards Federation as a whole. However, the collection of Wizards Den staff who are here do have voting privileges.
 
 We also have a few unaffiliated members.
 
